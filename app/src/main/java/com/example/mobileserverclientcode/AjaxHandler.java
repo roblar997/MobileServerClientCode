@@ -45,7 +45,7 @@ public class AjaxHandler {
                     String method = params[1].toUpperCase();
                     String requestBody = params[2];
                     AjaxResponse ajaxResponse = new AjaxResponse();
-
+//
                     try {
                         URL requestUrl = new URL(url);
                         HttpURLConnection connection = (HttpURLConnection) requestUrl.openConnection();
