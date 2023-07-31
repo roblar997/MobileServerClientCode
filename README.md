@@ -4,7 +4,8 @@
     - Takes a map of expected keys and types
     - Method type
     - URL
-    - Debug mode (yes/no)
+    - Debug mode (yes/no):
+
       If debug mode, on get random generated data back, based to expected keys and types
       
     Output:
