@@ -6,7 +6,7 @@
     - URL
     - Debug mode (yes/no):
 
-      If debug mode: On get random generated data back, based to expected keys and types.
+      If debug mode: One get random generated data back, based to expected keys and types.
       
     Output:
      - Prints out data expected keys and types, either random generated or actual data based on debug parameter
