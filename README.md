@@ -6,6 +6,7 @@
     - URL
     - Debug mode (yes/no)
       If debug mode, on get random generated data back, based to expected keys and types
+      
     Output:
      - Prints out data expected keys and types, either random generated or actual data based on debug parameter
 3. A basic main menu in Main Activity, but no back button in the 3 Activities classes
