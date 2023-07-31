@@ -2,7 +2,7 @@
    
     Input:
     - Takes a map of expected keys and types
-    - Method type
+    - type (POST/GET/PUT/DELETE)
     - URL
     - Debug mode (yes/no):
 
