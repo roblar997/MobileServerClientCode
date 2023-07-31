@@ -1,4 +1,4 @@
-1. Only one class of Ajax, that removes need of ajax in Activity files. Does the following:
+1. Only one class of Ajax, that removes the need of ajax in Activity files. Does the following:
    
     Input:
     - Takes a map of expected keys and types
